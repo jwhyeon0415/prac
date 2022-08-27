@@ -24,12 +24,12 @@ Push 버튼을 눌러도 아무 반응 없음<br>
 - 도구 -> 옵션 -> Git -> Git 버전 -> Embedded<br>
 => 와 드디어 뜬다
 <br>
-- 푸시 목록이 나타나고 드디어 됨....
+- 푸시 목록이 나타나고 드디어 됨....<br>
 <br>
 - 근데 CredentialHelperSelector 창이 떠서 뭐가 잘못될까봐 검색
 - Windows PowerShell에서 'cd$env:LOCALDATA\Atlassian\SourceTree\git_local\mingw32\bin\' 치라는데 경로를 찾을 수가 없어서 그냥 원래 체크되어 있던 'manager-core'로 선택<br>
--> github token 사용해서 인증 후 push 성공
+-> github token 사용해서 인증 후 push 성공<br>
 <br>
-- 저 창이 push할 때마다 계속 뜸 -> Always use this from now on 체크
+- 저 창이 push할 때마다 계속 뜸 -> Always use this from now on 체크<br>
 <br>
 -> 확인용 내용
