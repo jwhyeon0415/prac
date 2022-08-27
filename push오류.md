@@ -30,3 +30,5 @@ Push 버튼을 눌러도 아무 반응 없음
 -> github token 사용해서 인증 후 push 성공
 
 - 저 창이 push할 때마다 계속 뜸 -> Always use this from now on 체크
+
+-> 확인용 내용
